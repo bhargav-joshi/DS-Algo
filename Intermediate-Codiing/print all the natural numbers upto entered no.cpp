@@ -8,7 +8,7 @@ int main ()
   cout << "Enter the number:";
   //user input 
   cin >> N;
-  for (i = 0; i <= N; i++)
+  for (i = 1; i <= N; i++)
   {
       cout<<i<<" ";
   }
